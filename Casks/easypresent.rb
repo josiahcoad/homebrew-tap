@@ -1,6 +1,6 @@
 cask "easypresent" do
-  version "0.4.6"
-  sha256 "0e3f83ce0476432da63821efa53e281efc876e9a485dd1b23e7245627d6d5a9f"
+  version "0.4.7"
+  sha256 "e059cacdda662e0d7a7dbbc48ce9179e7837bc56c1c39fe3a7551811a66ac48a"
 
   url "https://github.com/josiahcoad/EasyPresent/releases/download/v#{version}/EasyPresent-v#{version}.dmg"
   name "EasyPresent"
